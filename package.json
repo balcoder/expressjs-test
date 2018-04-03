@@ -1,0 +1,26 @@
+{
+  "name": "expressjs",
+  "version": "1.0.0",
+  "description": "node school expressjs workshop",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/balcoder/expressjs-test.git"
+  },
+  "keywords": [
+    "express",
+    "js"
+  ],
+  "author": "Des Barrett",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/balcoder/expressjs-test/issues"
+  },
+  "homepage": "https://github.com/balcoder/expressjs-test#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
